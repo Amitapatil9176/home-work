@@ -77,4 +77,26 @@
 #         list2.append(list1[i])
 #   return list2
 # print(even())  
-nu=int(input("enter any number"))
+# nu=int(input("enter any number"))
+# r,s=0
+# for r in range():
+    
+
+# def is_prime(n):
+#     if n <= 1:
+#         return False
+#     for i in range(2, int(n**0.5)+1):
+#         if n % i == 0:
+#             return False
+#     return True
+
+# def kth_prime(k):
+#     count = 0
+#     num = 1
+#     while count < k:
+#         num += 1
+#         if is_prime(num):
+#             count += 1
+#     return num
+
+# print("10 th prime number is=",kth_prime(10))  # Output: 29
