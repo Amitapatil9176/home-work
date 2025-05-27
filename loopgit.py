@@ -61,7 +61,7 @@ for i in range(nt):
 print("************")
 a="amita"
 s=0
-list=['a','e','i','o','u']
+list=['a','e','i','o','u','A','E','I','O','U']
 for i in a:
     if (i in list):
         print(i)
